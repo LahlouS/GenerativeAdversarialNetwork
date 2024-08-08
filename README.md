@@ -13,3 +13,26 @@ A quick implementation of GAN on google satellite calque dataset available at: h
   <img src=".images/labelGAN.png" alt="label" width="200"/>
   <img src=".images/predGAN.png" alt="pred" width="200"/>
 </p>
+
+<table>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src=".images/sampleGAN.png" alt="sample" width="200">
+        <figcaption>image sample</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src=".images/labelGAN.png" alt="calque" width="200">
+        <figcaption>calque label</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src=".images/predGAN.png" alt="pred" width="200">
+        <figcaption>prediction</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
